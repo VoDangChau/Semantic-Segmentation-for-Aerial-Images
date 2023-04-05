@@ -7,3 +7,13 @@ We propose a solution to these problems based on two ideas: (i) we use together 
 consistency loss to guide the model to learn semantic representations that are invariant to the photometric and geometric 
 shifts typical of the top-down perspective (Augmentation Invariance); (ii) we use a sampling method (Adaptive Sampling)
 that select the training images based on a measure of pixel-wise distribution of classes and actual network confidence. 
+
+## Pipeline
+![image](https://user-images.githubusercontent.com/91112707/230101003-8be140f2-b597-4a08-938d-594b55662686.png)
+
+
+## Result
+The result of some model applied on the task.
+![image](https://user-images.githubusercontent.com/91112707/230098430-de3d54a5-25f2-4d27-9fac-c27603daa4ad.png)
+
+The result achieves highest performance when we apply 30 degree rotation instead of 90 degree rotation for Augmentation Invariance method and Focal loss instead of Cross Entropy.
