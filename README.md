@@ -17,7 +17,7 @@ We use Dataset from a competition called AGRICULTURE-VISION. They are aerial ima
 
 
 ## Result
-The result of some model applied on the task.
+The result of some models and our proposed method applied for the task.
 ![image](https://user-images.githubusercontent.com/91112707/230098430-de3d54a5-25f2-4d27-9fac-c27603daa4ad.png)
 
 The result achieves highest performance when we apply 30 degree rotation instead of 90 degree rotation for Augmentation Invariance method and Focal loss instead of Cross Entropy.
