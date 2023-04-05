@@ -11,6 +11,10 @@ that select the training images based on a measure of pixel-wise distribution of
 ## Pipeline
 ![image](https://user-images.githubusercontent.com/91112707/230101003-8be140f2-b597-4a08-938d-594b55662686.png)
 
+## Dataset
+We use Dataset from a competition called AGRICULTURE-VISION. They are aerial images with top-down perspective.
+![image](https://user-images.githubusercontent.com/91112707/230102990-786ec7c1-a0cb-4aff-ab52-7d00c9d2e269.png)
+
 
 ## Result
 The result of some model applied on the task.
